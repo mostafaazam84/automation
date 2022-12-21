@@ -15,4 +15,3 @@ file_path = input("Enter Location Folder : : ")
 image(url,file_path ,file_name)
     
     
-    download_image , numbersWords , text_colors
