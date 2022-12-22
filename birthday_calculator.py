@@ -1,19 +1,6 @@
 from datetime import datetime
  
-# today =int(input("please enter tody : "))
-# month =int(input("please enter month : "))
-# year =int(input("please enter year : "))
 
- 
-# def calculateAge(birthDate):
-#     today = date.today()
-#     age = today.year - birthDate.year -((today.month, today.day) <
-#          (birthDate.month, birthDate.day))
- 
-#     return age
-     
-# # Driver code
-# print(calculateAge(date(year, month, today)), "years")
 
 
 now = datetime.now()
@@ -38,4 +25,6 @@ z = day - bday
 
 
 print (f"Your age Is ===> {x} Years and {y} month and {z} Day")
-print ()
+
+
+
